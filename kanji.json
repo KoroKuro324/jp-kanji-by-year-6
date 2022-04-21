@@ -1,0 +1,96 @@
+{
+    "教育漢字": {
+        "一年生": [
+            {
+                "kanji": "一",
+                "onyomi": "いち",
+                "pronunciation": "ichi"
+            },
+            {
+                "kanji": "ニ",
+                "onyomi": "に",
+                "pronunciation": "ni"
+            },
+            {
+                "kanji": "三",
+                "onyomi": "さん",
+                "pronunciation": "san"
+            },
+            {
+                "kanji": "四",
+                "onyomi": "よん",
+                "pronunciation": "yon"
+            },
+            {
+                "kanji": "五",
+                "onyomi": "ご",
+                "pronunciation": "go"
+            },
+            {
+                "kanji": "六",
+                "onyomi": "ろく",
+                "pronunciation": "roku"
+            },
+            {
+                "kanji": "七",
+                "onyomi": "なな",
+                "pronunciation": "nana"
+            },
+            {
+                "kanji": "八",
+                "onyomi": "はち",
+                "pronunciation": "hachi"
+            },
+            {
+                "kanji": "九",
+                "onyomi": "きゅう",
+                "pronunciation": "kyuu"
+            },
+            {
+                "kanji": "十",
+                "onyomi": "じゅう",
+                "pronunciation": "jyuu"
+            },
+            {
+                "kanji": "百",
+                "onyomi": "ひゃく",
+                "pronunciation": "hyaku"
+            },
+            {
+                "kanji": "千",
+                "onyomi": "せん",
+                "pronunciation": "sen"
+            },
+            {
+                "kanji": "上",
+                "onyomi": "じょう",
+                "pronunciation": "jyou"
+            },
+            {
+                "kanji": "下",
+                "onyomi": "か",
+                "pronunciation": "ka"
+            },
+            {
+                "kanji": "左",
+                "onyomi": "さ",
+                "pronunciation": "sa"
+            },
+            {
+                "kanji": "右",
+                "onyomi": "う",
+                "pronunciation": "u"
+            },
+            {
+                "kanji": "中",
+                "onyomi": "ちゅう",
+                "pronunciation": "chyuu"
+            },
+            {
+                "kanji": "大",
+                "onyomi": "だい",
+                "pronunciation": "dai"
+            }
+        ]
+    }
+}
