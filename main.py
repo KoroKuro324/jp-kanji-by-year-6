@@ -1,11 +1,9 @@
 import json, secrets
 from time import sleep
 
-with open("kanji.json", encoding="UTF-8") as fl:
-    kanji = json.loads(fl.read())
-
-def quiz():
+try:
+    with open("kanji.json") as file:
+        list_of_kanji = json.loads(file.read())
+except:
     pass
-
-while True:
-    input()
+    #to continue
