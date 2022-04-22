@@ -3,6 +3,6 @@
 ## Usage
 Simple as the following:
 
-```bsh
+```
 python3 main.py
 ```
